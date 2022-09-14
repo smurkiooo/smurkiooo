@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smurkiooo , ii am from Russia
+- 👋 Hi, I’m @smurkiooo 
 - 👀 I’m interested in data science, machine learning, neural biology and genetics
 - 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ...
